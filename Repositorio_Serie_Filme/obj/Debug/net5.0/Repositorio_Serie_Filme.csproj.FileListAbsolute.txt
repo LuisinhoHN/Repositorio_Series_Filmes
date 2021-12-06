@@ -1,0 +1,16 @@
+C:\Users\henri\source\repos\Repositorio_Serie_Filme\Repositorio_Serie_Filme\bin\Debug\net5.0\Repositorio_Serie_Filme.exe
+C:\Users\henri\source\repos\Repositorio_Serie_Filme\Repositorio_Serie_Filme\bin\Debug\net5.0\Repositorio_Serie_Filme.deps.json
+C:\Users\henri\source\repos\Repositorio_Serie_Filme\Repositorio_Serie_Filme\bin\Debug\net5.0\Repositorio_Serie_Filme.runtimeconfig.json
+C:\Users\henri\source\repos\Repositorio_Serie_Filme\Repositorio_Serie_Filme\bin\Debug\net5.0\Repositorio_Serie_Filme.runtimeconfig.dev.json
+C:\Users\henri\source\repos\Repositorio_Serie_Filme\Repositorio_Serie_Filme\bin\Debug\net5.0\Repositorio_Serie_Filme.dll
+C:\Users\henri\source\repos\Repositorio_Serie_Filme\Repositorio_Serie_Filme\bin\Debug\net5.0\ref\Repositorio_Serie_Filme.dll
+C:\Users\henri\source\repos\Repositorio_Serie_Filme\Repositorio_Serie_Filme\bin\Debug\net5.0\Repositorio_Serie_Filme.pdb
+C:\Users\henri\source\repos\Repositorio_Serie_Filme\Repositorio_Serie_Filme\obj\Debug\net5.0\Repositorio_Serie_Filme.csproj.AssemblyReference.cache
+C:\Users\henri\source\repos\Repositorio_Serie_Filme\Repositorio_Serie_Filme\obj\Debug\net5.0\Repositorio_Serie_Filme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\source\repos\Repositorio_Serie_Filme\Repositorio_Serie_Filme\obj\Debug\net5.0\Repositorio_Serie_Filme.AssemblyInfoInputs.cache
+C:\Users\henri\source\repos\Repositorio_Serie_Filme\Repositorio_Serie_Filme\obj\Debug\net5.0\Repositorio_Serie_Filme.AssemblyInfo.cs
+C:\Users\henri\source\repos\Repositorio_Serie_Filme\Repositorio_Serie_Filme\obj\Debug\net5.0\Repositorio_Serie_Filme.csproj.CoreCompileInputs.cache
+C:\Users\henri\source\repos\Repositorio_Serie_Filme\Repositorio_Serie_Filme\obj\Debug\net5.0\Repositorio_Serie_Filme.dll
+C:\Users\henri\source\repos\Repositorio_Serie_Filme\Repositorio_Serie_Filme\obj\Debug\net5.0\ref\Repositorio_Serie_Filme.dll
+C:\Users\henri\source\repos\Repositorio_Serie_Filme\Repositorio_Serie_Filme\obj\Debug\net5.0\Repositorio_Serie_Filme.pdb
+C:\Users\henri\source\repos\Repositorio_Serie_Filme\Repositorio_Serie_Filme\obj\Debug\net5.0\Repositorio_Serie_Filme.genruntimeconfig.cache
